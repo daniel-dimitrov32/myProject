@@ -6,4 +6,6 @@ def task_73(n):
         q = k*k
         
     print(q)
-task_73(31)  
+task_73(31) 
+
+# it looks like I learned how to use git today
